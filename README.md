@@ -3,6 +3,8 @@ Simple grep, simple head, and fancyGrep Node.js implementation
 
 fancyGrep is an enhanced version of simple grep that accepts 2 arguments: filename and string
 
+To run fancyGrep install Node.js and use command: node fancyGrep.js testFile.txt searchString
+
 The program will:
 
   - Read each line of the file searching for string matches
