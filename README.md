@@ -1,7 +1,7 @@
 # IT-207-Workshop
 Simple grep, simple head, and fancyGrep Node.js implementation
 
-fancyGrep is an enhanced version of simple grep that accepts 2 arguments: <filename> and <string>
+fancyGrep is an enhanced version of simple grep that accepts 2 arguments: filename and string
 
 The program will:
 
